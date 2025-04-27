@@ -1,0 +1,1 @@
+print("Hello! Welcome to Day 1 of my scripting journey!")

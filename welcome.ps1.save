@@ -1,0 +1,4 @@
+Write-Output "Hello! Welcome to day 1 of my scripting journey"
+./welcome.pas1
+x
+
